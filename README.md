@@ -60,5 +60,11 @@ saglama (useContext | useSelector)
 - - degişiklik yapıyorum sayfayı yenileyince gidiyor
 - - api'da hata var
 - - store'da sıkıntı yok
+ 
+
+
+
+https://github.com/sedatcalis/REDUX-TODO/assets/140658531/3f05ab93-fe74-409f-93a4-39b45c074c88
+
 
 
